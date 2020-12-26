@@ -37,6 +37,6 @@
 
 ---
 
-[website]: https://github.com/nicabuhat
+[website]: https://nicabuhat.github.io
 [twitter]: https://twitter.com/nickatsuki
 [instagram]: https://instagram.com/nickatsuki
