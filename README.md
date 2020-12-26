@@ -4,7 +4,6 @@
 
 -   🌱 I’m currently learning everything about web development
 -   🎨 I'm also re-learning art fundamentals  
-    creators
 -   ⭐ 2021 Goals: Contribute to Open Source projects
 -   ⚡ Fun fact: I love dogs as much as I love cats 🐶🐱
 
