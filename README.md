@@ -38,4 +38,4 @@
 
 [website]: https://nicabuhat.github.io
 [telegram]: https://t.me/nicabuhat
-[instagram]: https://discordapp.com/users/nicabuhat#1069
+[discord]: https://discordapp.com/users/nicabuhat#1069
