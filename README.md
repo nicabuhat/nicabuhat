@@ -38,7 +38,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="./assets/programmer.png" alt="girl with laptop on chair" />
+ <img align="right" width="350" src="profile.svg" alt="girl with laptop on chair" />
   
  👩🏼‍💻 &emsp; Loves to discover new ways to break code<br/><br/>
  👩🏼‍🎨 &emsp; UI/UX van Gogh when he had perfectly intact ears<br/><br/>
